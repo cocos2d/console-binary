@@ -1,5 +1,4 @@
 {
-    "version":"v3-console-3",
-    "spidermonkey":"28",
-    "luajit":"2.0.1"
+    "version":"v3-console-2",
+    "spidermonkey":"28"
 }
